@@ -1,0 +1,10 @@
+{
+    "handler": {
+        "token": "5557130695:AAElFgg75KnF4H2E2gytAxUzBZAqsdHbaZE"
+    },
+
+    "db_manager": {
+        "adapter": "sqlite",
+        "dbname": "./../../external/database/main.db"
+    }
+}
